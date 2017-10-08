@@ -15,4 +15,8 @@ abstract class Pessoa{
 	function getCpf(){
 		return $this->cpf;
 	}
+
+	function setNome($nome){
+		$this->nome = $nome;
+	}
 }
