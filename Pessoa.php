@@ -19,4 +19,8 @@ abstract class Pessoa{
 	function setNome($nome){
 		$this->nome = $nome;
 	}
+
+	function setRg($rg){
+		$this->rg = $rg;
+	}
 }
