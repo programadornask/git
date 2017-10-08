@@ -11,4 +11,8 @@ abstract class Pessoa{
 	function getRg(){
 		return $this->rg;
 	}
+
+	function getCpf(){
+		return $this->cpf;
+	}
 }
