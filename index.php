@@ -49,6 +49,6 @@ class Carro{
 	}
 
 	function anda(){
-		//method will be implemented after.
+		return 'O carro está andando...';
 	}
 }
