@@ -47,4 +47,8 @@ class Carro{
 	function getUsado(){
 		return $this->usado;
 	}
+
+	function anda(){
+		//method will be implemented after.
+	}
 }
