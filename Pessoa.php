@@ -7,4 +7,8 @@ abstract class Pessoa{
 	function getNome(){
 		return $this->nome;
 	}
+
+	function getRg(){
+		return $this->rg;
+	}
 }
